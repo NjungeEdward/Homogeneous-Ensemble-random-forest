@@ -9,3 +9,5 @@ scikit-learn
 matplotlib
 
 The data from the datasets is loaded and is preprocessed to prepare it for building a model. It is split into two, training dataset and testing dataset. A RandomForestClassifier is trained on the training data and is evaluated on test dataset to check its performance.
+
+The data is loaded and is prepared for creating a model, then the model and is trained and tested and a test is done to check its performance. Upon complition the churn dataset model had its results came out highand this meant a good ensemble was achieved while insurance dataset moadel had lower results
